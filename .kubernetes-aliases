@@ -1,4 +1,5 @@
 alias k='kubectl'
+alias ke='kubectl exec -it'
 alias kc='kubectl create'
 alias kd='kubectl delete'
 alias kr='kubectl replace'
